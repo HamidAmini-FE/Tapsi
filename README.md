@@ -2,7 +2,7 @@
 🏃‍♂️**this is Tapsi template **
 <h3 align="center"> 📸 Gallery </h3>
 
-![Untitled-1]()
+![Screenshot 2024-01-28 221913](https://github.com/HamidAmini-FE/Tapsi/assets/155943185/c2f401c4-9633-4ae9-bbe2-e08dc6cd5fe4)
 
 
 
